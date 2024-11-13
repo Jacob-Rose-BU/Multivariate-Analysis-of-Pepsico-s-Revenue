@@ -1,0 +1,12 @@
+﻿Pepsico Income Statement Data
+
+
+This dataset contains 5 variables and 86 observations. The dataset describes the total standardized revenue by quarter from the second half of 1993 to the last quarter of 2014. The dataset was created and cleaned by Jacob Rose using data from Mergent Online linked here 
+https://www-mergentonline-com.ezproxy.bu.edu/companyfinancials.php?pagetype=standardized&compnumber=6581&period=Quarters&dataarea=PL&range=50&currency=AsRep&scale=AsRep.
+
+
+report_date – Date that the data was reported and recorded
+year – Year of data recorded
+quarter – Quarter of the data recorded, disregarding year
+revenue – Total standardized revenue for the quarter listed
+time – individual number counting down representing time from start of dataset
