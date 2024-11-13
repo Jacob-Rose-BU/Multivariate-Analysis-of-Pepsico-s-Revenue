@@ -1,1 +1,3 @@
-# Multivariate-Analysis-of-Pepsico-s-Revenue
+# Multivariate-Analysis-of-Pepsicos-Revenue
+
+Collaboration: Dana Winer, Gabriel Moncau, Andres Tamayo
